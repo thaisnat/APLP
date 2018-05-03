@@ -1,3 +1,2 @@
-#labs_aplp
 
-Labs C++,haskell and Prolog
+Projeto e Laboratorios da Disciplina Aplicações dos Paradigmas das Linguagens de Programação
